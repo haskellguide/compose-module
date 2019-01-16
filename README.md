@@ -2,9 +2,10 @@
 
 ## overview 
 
+- introduction to a design pattern of type structure
 - this is a excercise in using types to describe things
-- modeling your computation as data types, composing data types together, rather than functions.
-- if we compose two things is the result applicative?
+- modeling your computation as data types, composing those data types together, rather than composition with functions.
+- final take away - if we compose two functors is the result applicative/monad?
 
 ## acknowledgments
 
@@ -12,5 +13,7 @@ This learning module is a composition of work by the [CSIRO Data61 functional pr
 
 ## excercises
 
-- Q: one of these excercises will not be possibile to achieve. Which one?
-- Q: if we compose two things is the result applicative?
+Q: one of these excercises will not be possibile  to achieve. Which one?
+
+Q: if we compose two functors is the result applicative?
+
