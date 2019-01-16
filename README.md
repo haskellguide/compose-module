@@ -12,8 +12,5 @@ This learning module is a composition of work by the [CSIRO Data61 functional pr
 
 ## excercises
 
-Q: one of these excercises will not be possibile to achieve. Which one?
-A: ?
-
-Q: if we compose two things is the result applicative?
-A: ?
+- Q: one of these excercises will not be possibile to achieve. Which one?
+- Q: if we compose two things is the result applicative?
